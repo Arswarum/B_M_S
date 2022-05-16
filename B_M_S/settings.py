@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'booking.apps.BookingConfig',
+    'booking.booking_functions',
 
     'phonenumber_field',
 ]
