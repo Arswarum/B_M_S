@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 
     'booking.apps.BookingConfig',
 
-    'phonenumber_field'
+    'phonenumber_field',
 ]
 
 AUTH_USER_MODEL = 'booking.User'
